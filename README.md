@@ -14,8 +14,8 @@
 
 <div align="center">
 📝Platform & Language📝<br><br>
-<img src="https://img.shields.io/badge/Create React App-09D3AC?style=flat-square&logo=CreateReactApp&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/></a> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/></a> <br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a> <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=HTML5&logoColor=white"/></a> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=CSS3&logoColor=white"/></a> <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/></a> <br><br><br>
+<img src="https://img.shields.io/badge/Create React App-09D3AC?style=flat-square&logo=CreateReactApp&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a> <br>
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=HTML5&logoColor=white"/></a> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=CSS3&logoColor=white"/></a> <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/></a> <br><br><br>
 
 🛠️Tools🛠️<br><br>
  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/></a> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a> <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=Zoom&logoColor=white"/></a> <img src="https://img.shields.io/badge/Dropbox-0061FF?style=flat-square&logo=Dropbox&logoColor=white"/></a> <br>
@@ -23,7 +23,7 @@
  
  🎨Design & Artwork🎨<br><br>
 <img src="https://img.shields.io/badge/Adobe Creative Cloud-DA1F26?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></a>  <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Adobe Lightroom-31A8FF?style=flat-square&logo=AdobeLightroom&logoColor=white"/></a> <br>
-<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/></a> <img src="https://img.shields.io/badge/Pinterest-BD081C?style=flat-square&logo=Pinterest&logoColor=white"/></a> <img src="https://img.shields.io/badge/Pixabay-2EC66D?style=flat-square&logo=Pixabay&logoColor=white"/></a> <img src="https://img.shields.io/badge/Unsplash-000000?style=flat-square&logo=Unsplash&logoColor=white"/></a> <br><br><br>
+<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/></a> <img src="https://img.shields.io/badge/Pinterest-BD081C?style=flat-square&logo=Pinterest&logoColor=white"/></a> <img src="https://img.shields.io/badge/Unsplash-000000?style=flat-square&logo=Unsplash&logoColor=white"/></a> <br><br><br>
 
 🎬SNS & Portfolio🎬<br><br>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> <br><br><br>
@@ -33,13 +33,12 @@
 <h1>🗃️My GitHub Stats🗃️</h1>
 <h4>My Github Activity</h4>
 </div>
+<br><br><br>
 
 <div align=center>
 
 ![Minzzjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=minzzjo&show_icons=true&theme=transparent)<br><br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minzzjo&layout=compact)](https://github.com/minzzjo/github-readme-stats) <br><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minzzjo&repo=Hanghae-6w-react)](https://github.com/minzzjo/Hanghae-6w-react)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minzzjo&repo=Hanghae-7W-Clone)](https://github.com/minzzjo/Hanghae-7W-Clone) <br><br><br>
 
 </div>
 
