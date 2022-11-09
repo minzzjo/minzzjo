@@ -20,10 +20,6 @@
 🛠️Tools🛠️<br><br>
  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/></a> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a> <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=Zoom&logoColor=white"/></a> <img src="https://img.shields.io/badge/Dropbox-0061FF?style=flat-square&logo=Dropbox&logoColor=white"/></a> <br>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/></a> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a> <br><br><br>
- 
- 🎨Design & Artwork🎨<br><br>
-<img src="https://img.shields.io/badge/Adobe Creative Cloud-DA1F26?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></a>  <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Adobe Lightroom-31A8FF?style=flat-square&logo=AdobeLightroom&logoColor=white"/></a> <br>
-<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/></a> <img src="https://img.shields.io/badge/Pinterest-BD081C?style=flat-square&logo=Pinterest&logoColor=white"/></a> <img src="https://img.shields.io/badge/Unsplash-000000?style=flat-square&logo=Unsplash&logoColor=white"/></a> <br><br><br>
 
 🎬SNS & Portfolio🎬<br><br>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> <br><br><br>
